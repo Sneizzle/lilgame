@@ -1,0 +1,12 @@
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\bin\Debug\Evans ManCave.exe.config
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\bin\Debug\Evans ManCave.exe.manifest
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\bin\Debug\Evans ManCave.application
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\bin\Debug\Evans ManCave.exe
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\bin\Debug\Evans ManCave.pdb
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.csproj.AssemblyReference.cache
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.csproj.SuggestedBindingRedirects.cache
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.csproj.CoreCompileInputs.cache
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.exe.manifest
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.application
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.exe
+X:\games by john\Enders dungeon\Evans ManCave\Evans ManCave\obj\Debug\Evans ManCave.pdb
